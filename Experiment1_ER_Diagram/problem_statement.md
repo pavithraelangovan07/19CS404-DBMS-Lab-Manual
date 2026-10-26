@@ -22,7 +22,7 @@ FlexiFit Gym wants a database to manage its members, trainers, and fitness progr
 - Payments tracked for memberships and sessions.
 
 ### ER Diagram:
-<img width="738" height="1600" alt="WhatsApp Image 2026-09-06 at 8 23 49 PM" src="https://github.com/user-attachments/assets/1ff1fb44-bba7-49b7-9415-daf9c9832dee" />
+<img width="1280" height="960" alt="WhatsApp Image 2026-10-26 at 1 11 32 PM" src="https://github.com/user-attachments/assets/550adff1-f031-4250-9952-55a777187741" />
 
 <img width="1048" height="936" alt="image" src="https://github.com/user-attachments/assets/7f70f3bb-ea55-4e13-bb0a-93acb4e9bef9" />
 
@@ -68,8 +68,8 @@ The Central Library wants to manage book lending and cultural events.
 - Overdue fines apply for late returns.
 
 ### ER Diagram:
-<img width="738" height="1600" alt="WhatsApp Image 2026-09-09 at 11 28 09 PM" src="https://github.com/user-attachments/assets/1f1a5b92-e1d5-4071-a60b-e7ecdb44d139" />
 
+<img width="1280" height="960" alt="WhatsApp Image 2026-10-26 at 1 11 31 PM" src="https://github.com/user-attachments/assets/256d564f-9da6-4066-a330-03f5aef8d259" />
 <img width="1917" height="893" alt="image" src="https://github.com/user-attachments/assets/4f9b4107-5cd6-4e50-b995-e08e0c9da273" />
 
 ### Entities and Attributes
@@ -113,8 +113,8 @@ A popular restaurant wants to manage reservations, orders, and billing.
 - Waiters assigned to serve reservations.
 
 ### ER Diagram:
-<img width="716" height="1325" alt="WhatsApp Image 2026-09-15 at 8 41 57 AM" src="https://github.com/user-attachments/assets/daf962db-17f9-4388-96cd-e752dd92cb48" />
 
+<img width="1280" height="960" alt="WhatsApp Image 2026-10-26 at 1 11 31 PM (1)" src="https://github.com/user-attachments/assets/3174389a-db79-41ff-ac14-987768e9e075" />
 <img width="1496" height="915" alt="image" src="https://github.com/user-attachments/assets/d6c346c7-b5a3-425b-b6fc-3ea851172a1b" />
 
 ### Entities and Attributes
